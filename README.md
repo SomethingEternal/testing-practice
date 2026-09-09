@@ -45,12 +45,22 @@
 - **📄 Код:** [test_login_saucedemo.py](./project_02_autotest_saucedemo/test_login_saucedemo.py)
 - **🖼️ Скриншот:** [результат](./project_02_autotest_saucedemo/screenshot_result.png)
 
-### Проект 3: [скоро]
+---
+
+### Проект 3: Работа с API (Postman)
+
+- **Инструменты:** Postman
+- **Что делала:** отправила GET-запрос к GitHub API, получила ответ
+- **🖼️ Скриншот:** [postman_screenshot.png](./project_03_postman/postman_screenshot.png)
+
+---
+
+### Проект 4: [скоро]
 
 *(Сюда добавится следующий проект)*
 
 ---
 
-### Проект 4: [скоро]
+### Проект 5: [скоро]
 
 *(Сюда добавится ещё один)*
