@@ -55,12 +55,21 @@
 
 ---
 
-### Проект 4: [скоро]
+### Проект 4: API-тестирование (Postman)
+
+- **Инструменты:** Postman
+- **Что делала:** создала коллекцию запросов (GET, POST, PUT, DELETE) к JSONPlaceholder API, написала автотесты
+- **📄 Коллекция:** [jsonplaceholder_collection.json](./project_04_api_postman/jsonplaceholder_collection.json)
+- **🖼️ Скриншоты:** [Test Results](./project_04_api_postman/screenshot_test_results.png), [Коллекция](./project_04_api_postman/screenshot_collection.png)
+
+---
+
+### Проект 5: [скоро]
 
 *(Сюда добавится следующий проект)*
 
 ---
 
-### Проект 5: [скоро]
+### Проект 6: [скоро]
 
 *(Сюда добавится ещё один)*
