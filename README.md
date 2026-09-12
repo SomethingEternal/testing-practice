@@ -73,12 +73,22 @@
 
 ---
 
-### Проект 6: [скоро]
+### Проект 6: Автотесты на Playwright (SauceDemo)
+
+- **Инструменты:** Python, Playwright, pytest
+- **Что делала:** написала 5 автотестов (вход, корзина), разделила по файлам, использовала фикстуры
+- **Результат:** все 5 тестов проходят успешно
+- **📄 Код:** [test_login.py](./project_06_autotests_saucedemo/tests/test_login.py), [test_cart.py](./project_06_autotests_saucedemo/tests/test_cart.py)
+- **🖼️ Скриншот:** [результат pytest](./project_06_autotests_saucedemo/screenshot_pytest.png)
+
+---
+
+### Проект 7: [скоро]
 
 *(Сюда добавится следующий проект)*
 
 ---
 
-### Проект 7: [скоро]
+### Проект 8: [скоро]
 
 *(Сюда добавится ещё один)*
